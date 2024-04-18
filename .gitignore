@@ -1,1 +1,3 @@
-/ListExemple.class
+*.class
+.project
+.metadata
