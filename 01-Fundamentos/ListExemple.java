@@ -18,6 +18,6 @@ public class ListExemple {
     }
 
     names.forEach(name -> System.out.println("Nome cadastrado: " + name));
-    // forma que foi intrduzida a partir do java 8 para percorrer uma lista.
+    // forma que foi introduzida a partir do java 8 para percorrer uma lista.
   }
 }
