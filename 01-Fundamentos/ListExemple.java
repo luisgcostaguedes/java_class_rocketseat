@@ -19,5 +19,7 @@ public class ListExemple {
 
     names.forEach(name -> System.out.println("Nome cadastrado: " + name));
     // forma que foi introduzida a partir do java 8 para percorrer uma lista.
+
+    names.forEach(System.out::println); // Utilizando o método de referência para imprimir os valores da lista.
   }
 }
